@@ -1,2 +1,3 @@
 # Depth Estimation
-Estimating the depth of objects in a 2-dimensional frame
+- semi-supervised learning based depth estimation in 2-dimensional frames
+- the model will estimate how far objects are, in a frame, just by taking a 2-dimensional RGB input.
